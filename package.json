@@ -1,0 +1,16 @@
+{
+  "name": "tests-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/franciscojunior10/tests-calculator.git",
+  "author": "Francisco Junior <franciscojn49@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.5.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
